@@ -4,4 +4,4 @@ Remote sensing project examining drought and soil moisture conditions in Bushlan
 
 Data include SAVI, STR, rainfall and soil moisture observations from ISMN/SCAN.
 
-Main analysis: `Bushland_OPTRAM_SIMPLE_v2.ipynb`
+Main analysis: `Bushland_project.ipynb`
