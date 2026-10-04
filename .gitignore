@@ -1,0 +1,29 @@
+# Python/Jupyter temporary files
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+
+# R/RStudio session files
+.Rhistory
+.Rproj.user/
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Credentials
+cdse_credentials.txt
+
+# Exceeds GitHub's 100 MiB file limit
+output/VI_STR_data.csv
+
+# Unrelated project files kept locally
+functions.R
+run.R
+rs-arid-regions.Rproj
+MNDWI.js
+aoi.gpkg
+תרגיל מסכם - ניב בן אריה 212252969.docx
+README.html
+LICENSE
